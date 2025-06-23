@@ -61,8 +61,9 @@
 
 ## 🔥 GitHub Streak Stats
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdo5547&theme=github-dark-green" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdo5547&theme=matrix" alt="GitHub Streak Stats"/>
 </p>
 
 ---
