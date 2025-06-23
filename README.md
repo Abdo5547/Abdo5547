@@ -66,6 +66,41 @@
 ## 🔗 Featured Projects
 
 
+### 💊⚕️ PharmaMaestro
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=flat&logo=rest-api&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-008080?style=flat&logo=websocket&logoColor=white)
+![Eureka](https://img.shields.io/badge/Eureka-0077C8?style=flat&logo=eureka&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-000000?style=flat&logo=api-gateway&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-000000?style=flat&logo=mqtt&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+This project is a comprehensive pharmacy management application designed with a cloud-native microservices architecture and Domain-Driven Design (DDD) principles.  
+It was developed to offer a scalable, modular, and secure solution tailored for modern pharmacy operations.
+The application provides secure management of pharmacy personnel, using RFID badges tracked via Arduino IoT devices for session control.  
+Services communicate asynchronously through RabbitMQ and MQTT, ensuring smooth and reliable data exchange.  
+A real-time dashboard displays key business metrics such as top-selling products and monthly revenues, helping pharmacy managers make informed decisions.  
+The backend leverages Spring Boot for RESTful APIs and WebSocket communication, secured by Spring Security. Service discovery and routing are handled via Eureka Server and API Gateway, respectively.  
+The frontend is built with React.js and styled using Tailwind CSS for a responsive user experience.  
+Deployment is containerized with Docker and orchestrated on Microsoft Azure using Kubernetes, ensuring high availability and easy scalability.
+This project highlights effective collaboration between domain experts and developers, applying DDD to model complex business rules accurately, thus delivering a production-ready cloud application.
+
+---
+
+If you want, I can help you create sections for installation, usage, or architecture diagrams!
+
+
+
+
+---
+
 ### ⚖️ AI Legal Assistant for Moroccan Law
 
 ![AI](https://img.shields.io/badge/AI-000000?style=flat&logo=artificial-intelligence&logoColor=white)
@@ -77,6 +112,7 @@
 Development of an artificial intelligence model applied to the Moroccan legal sector, aimed at facilitating access to law by leveraging natural language processing models capable of understanding and generating text in Moroccan Arabic dialect and French.  
 This project demonstrates the power of AI technologies to democratize legal information and improve the understanding of law for everyone.
 
+--- 
 
 ### 📚 Smart Bookshelf
 
