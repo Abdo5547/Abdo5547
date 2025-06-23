@@ -21,10 +21,11 @@
 
 ## 🚀 About Me
 
-🔧 Full-Stack Developer | 🤖 AI & Data Science Enthusiast | 🌐 DevOps Learner  
-🎓 Former Math Teacher | 🇲🇦 Based in Morocco
+👋 Hi there! I'm **Abdelbasset Sassaoui**, a passionate **Full-Stack Developer** with a strong foundation in **AI, Data Science, and DevOps**.  
+🎓 I hold a degree in **Mathematics and Computer Science**, and I’ve also worked as a **Mathematics teacher**, which helped me build strong problem-solving and communication skills.
 
----
+🧠 I'm deeply curious and always eager to learn new technologies. I enjoy building projects that solve real-world problems and improve user experiences.
+
 
 ## 🛠️ Tech Stack
 
