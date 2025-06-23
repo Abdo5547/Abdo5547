@@ -65,6 +65,56 @@
 
 ## 🔗 Featured Projects
 
+
+###Smart Bookshelf
+
+![IoT](https://img.shields.io/badge/IoT-009688?style=flat&logo=iot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DeepInfra](https://img.shields.io/badge/DeepInfra-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjwvc3ZnPg==)
+![Facial Recognition](https://img.shields.io/badge/Facial_Recognition-90%25_Accuracy-blue?style=flat)
+
+Development of a personalized book recommendation platform using AI and IoT.  
+By capturing a user's facial image, a facial recognition model with 90% accuracy analyzes features such as age, gender, and emotion to recommend books, both from the physical library and digital platforms.  
+Physical books are equipped with chips that automatically read their summaries.  
+Recommendations are continuously improved based on the user's reading history.
+
+---
+
+
+### DevOps Infrastructure Deployment
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
+Automated DevOps infrastructure deployment on Azure using Kubernetes for container orchestration.  
+Utilized GitLab CI and Jenkins for CI/CD pipelines, Terraform for provisioning virtual machines, and Ansible for configuration management, ensuring fast and secure deployments.
+
+---
+
+### 🏘️ Student Residence Manager
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=material-ui&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=json-web-token&logoColor=orange)
+![PayPal](https://img.shields.io/badge/PayPal-003087?style=flat&logo=paypal&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+Development of a student residence management application using React.js and Spring Boot.  
+Features include managing rooms, residents, and payments, with integration of the PayPal API for transaction processing.  
+JWT is used to secure user access and management. An interactive dashboard displays key statistics.
+
+
+
+
+
+---
+
+
 ### 🧠 ResearchUnity Social Networking Platform for Scientific Collaboration
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -72,12 +122,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=json-web-token&logoColor=orange)
-
-
-Développement de ResearchUnity, une plateforme permettant aux chercheurs de publier, partager et
-découvrir des travaux académiques. Les principales fonctionnalités incluent la gestion des profils de
-recherche, la publication de documents, ainsi qu'une interface de chat personnalisée pour faciliter la
-communication en temps réel et la collaboration entre chercheurs.
+Development of ResearchUnity, a platform that enables researchers to publish, share, and discover academic work. Key features include research profile management, document publishing, and a customized chat interface to facilitate real-time communication and collaboration among researchers.
 
 ### 🧪 DevOps Lab  
 An automated microservice deployment system using Docker, GitHub Actions, Terraform & AWS. Implements monitoring and alerting with Prometheus and Grafana.
