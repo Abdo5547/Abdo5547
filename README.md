@@ -1,6 +1,6 @@
 <!-- Banner / Header Image -->
 
-![Texte alternatif](./banner.png)
+![Texte alternatif](./abdo.png)
 
 
 <h1 align="center">Hi 👋, I'm Abdelbasset Sassaoui</h1>
