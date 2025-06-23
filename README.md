@@ -57,9 +57,16 @@
 ## 🔥 GitHub Streak Stats
 
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdo5547&theme=matrix" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdo5547&theme=green_nur" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdo5547&show_icons=true&theme=whatsapp&count_private=true" alt="GitHub Stats" />
+</p>
+
 
 ---
 
