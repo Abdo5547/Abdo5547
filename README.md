@@ -60,10 +60,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdo5547&show_icons=true&theme=whatsapp-dark" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo5547&layout=compact&theme=whatsapp-dark" height="180px"/>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Abdo5547&theme=shadow-blue&hide_total_contributions=true" alt="GitHub Streak" /></a>
 
 ---
 
