@@ -5,24 +5,21 @@
 
 <h1 align="center">Hi 👋, I'm Abdelbasset Sassaoui</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdelbasset-sassaoui/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
 
-👋 Hi there! I'm **Abdelbasset Sassaoui**, a passionate **Full-Stack Developer** with a strong foundation in **AI, Data Science, and DevOps**.  
-🎓 I hold a degree in **Mathematics and Computer Science**, and I’ve also worked as a **Mathematics teacher**, which helped me build strong problem-solving and communication skills.
+## 🚀 About Me
+
+👋 Hi! I'm **Abdelbasset Sassaoui**, a passionate **Data Scientist** with a solid background in **Full-Stack Development**, **DevOps**, and **Microservices Architecture**.  
+
+🎓 Former **Mathematics Teacher**, I bring a strong analytical mindset and a passion for solving real-world problems using data and technology.
+
+💡 I’m highly interested in:
+- 🧠 **Machine Learning** & **Deep Learning**
+- 🏗️ **Microservices** & **API Design**
+- ⚙️ **DevOps** (CI/CD, Docker, Kubernetes ...)
+- 🔐 **System Design** & **Software Architecture**
 
 🧠 I'm deeply curious and always eager to learn new technologies. I enjoy building projects that solve real-world problems and improve user experiences.
 
