@@ -56,13 +56,6 @@
 
 ## 🔥 GitHub Streak Stats
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdo5547&theme=green_nur" alt="GitHub Streak" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdo5547&show_icons=true&theme=whatsapp&count_private=true" alt="GitHub Stats" />
 </p>
@@ -72,8 +65,19 @@
 
 ## 🔗 Featured Projects
 
-### 🧠 AI Platform  
-A ResearchGate-like platform built with Django, React, and PostgreSQL. Includes features for publication sharing, collaboration, and intelligent search using NLP.
+### 🧠 ResearchUnity Social Networking Platform for Scientific Collaboration
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=json-web-token&logoColor=orange)
+
+
+Développement de ResearchUnity, une plateforme permettant aux chercheurs de publier, partager et
+découvrir des travaux académiques. Les principales fonctionnalités incluent la gestion des profils de
+recherche, la publication de documents, ainsi qu'une interface de chat personnalisée pour faciliter la
+communication en temps réel et la collaboration entre chercheurs.
 
 ### 🧪 DevOps Lab  
 An automated microservice deployment system using Docker, GitHub Actions, Terraform & AWS. Implements monitoring and alerting with Prometheus and Grafana.
@@ -83,7 +87,7 @@ An automated microservice deployment system using Docker, GitHub Actions, Terraf
 ## 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdelbasset-sassaoui/)
-- 📧 Email: `your.email@example.com`
+- 📧 Email: `abdelbassetsassaoui55@gmail.com`
 
 ---
 
