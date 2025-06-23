@@ -1,7 +1,5 @@
 <!-- Banner / Header Image -->
-<p align="center">
-  <img src="https://imgur.com/a/DOL8GI4" alt="banner" style="width:100%; border-radius: 10px;" />
-</p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/DOL8GI4" data-context="false" ><a href="//imgur.com/a/DOL8GI4"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <h1 align="center">Hi 👋, I'm Abdelbasset Sassaoui</h1>
 
