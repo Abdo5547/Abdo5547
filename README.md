@@ -92,9 +92,16 @@ The frontend is built with React.js and styled using Tailwind CSS for a responsi
 Deployment is containerized with Docker and orchestrated on Microsoft Azure using Kubernetes, ensuring high availability and easy scalability.
 This project highlights effective collaboration between domain experts and developers, applying DDD to model complex business rules accurately, thus delivering a production-ready cloud application.
 
----
+### Blockchain-based Human Resources Management Application
 
-If you want, I can help you create sections for installation, usage, or architecture diagrams!
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Sepolia](https://img.shields.io/badge/Sepolia-0052CC?style=flat&logo=ethereum&logoColor=white)
+
+This project is a blockchain-based Human Resources management application developed using React for the frontend, Node.js for the backend, and Solidity for smart contract development deployed on the Sepolia test network.  
+The application enables secure addition of employee data on the blockchain. HR managers can consult the records of all employees, while each employee can access and review their own personal data.  
+By leveraging blockchain technology, the application ensures data integrity, transparency, and security for HR processes, minimizing risks of data tampering and unauthorized access.
 
 
 
