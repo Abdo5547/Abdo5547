@@ -1,7 +1,7 @@
 <!-- Banner / Header Image -->
-<p align="center">
-  <img src="https://imgur.com/a/DOL8GI4" alt="banner" style="width:100%; border-radius:10px;" />
-</p>
+
+![Texte alternatif](./banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Abdelbasset Sassaoui</h1>
 
