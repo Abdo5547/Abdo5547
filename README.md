@@ -92,6 +92,8 @@ The frontend is built with React.js and styled using Tailwind CSS for a responsi
 Deployment is containerized with Docker and orchestrated on Microsoft Azure using Kubernetes, ensuring high availability and easy scalability.
 This project highlights effective collaboration between domain experts and developers, applying DDD to model complex business rules accurately, thus delivering a production-ready cloud application.
 
+---
+
 ### Blockchain-based Human Resources Management Application
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
