@@ -66,7 +66,19 @@
 ## 🔗 Featured Projects
 
 
-###Smart Bookshelf
+### ⚖️ AI Legal Assistant for Moroccan Law
+
+![AI](https://img.shields.io/badge/AI-000000?style=flat&logo=artificial-intelligence&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F61?style=flat&logo=googlecloud&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Arabic](https://img.shields.io/badge/Arabic-%D8%B9%D8%B1%D8%A8%D9%8A-%237E3F98?style=flat)
+![French](https://img.shields.io/badge/French-0055A4?style=flat&logo=france&logoColor=white)
+
+Development of an artificial intelligence model applied to the Moroccan legal sector, aimed at facilitating access to law by leveraging natural language processing models capable of understanding and generating text in Moroccan Arabic dialect and French.  
+This project demonstrates the power of AI technologies to democratize legal information and improve the understanding of law for everyone.
+
+
+### 📚 Smart Bookshelf
 
 ![IoT](https://img.shields.io/badge/IoT-009688?style=flat&logo=iot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -75,7 +87,7 @@
 ![Facial Recognition](https://img.shields.io/badge/Facial_Recognition-90%25_Accuracy-blue?style=flat)
 
 Development of a personalized book recommendation platform using AI and IoT.  
-By capturing a user's facial image, a facial recognition model with 90% accuracy analyzes features such as age, gender, and emotion to recommend books, both from the physical library and digital platforms.  
+By capturing a user's facial image, a facial recognition model with 94% accuracy analyzes features such as age, gender, and emotion to recommend books, both from the physical library and digital platforms.  
 Physical books are equipped with chips that automatically read their summaries.  
 Recommendations are continuously improved based on the user's reading history.
 
@@ -122,6 +134,7 @@ JWT is used to secure user access and management. An interactive dashboard displ
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=json-web-token&logoColor=orange)
+
 Development of ResearchUnity, a platform that enables researchers to publish, share, and discover academic work. Key features include research profile management, document publishing, and a customized chat interface to facilitate real-time communication and collaboration among researchers.
 
 ### 🧪 DevOps Lab  
