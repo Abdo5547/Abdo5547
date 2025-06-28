@@ -5,7 +5,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdelbasset Sassaoui</h1>
 
----
 ## 🚀 About Me
 
 👋 Hi! I'm **Abdelbasset Sassaoui**, a passionate **Data Scientist** with a solid background in **Full-Stack Development**, **DevOps**, and **Microservices Architecture**.  
