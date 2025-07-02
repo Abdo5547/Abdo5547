@@ -159,10 +159,9 @@ Utilized GitLab CI and Jenkins for CI/CD pipelines, Terraform for provisioning v
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jwt&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-0078D7?style=flat)
 
-YourFavStore is a modern e-commerce application built with React frontend and Spring Boot backend, using MongoDB for data persistence.  
-It features secure user authentication and authorization powered by JWT.  
-Real-time updates and notifications are handled through WebSocket connections to enhance user interaction.  
-The platform supports product browsing, user reviews, and a responsive design for seamless shopping experiences across devices.
+YourFavStore is a modern e-commerce application built with React frontend and Spring Boot backend, using MongoDB for data persistence. 
+It features secure user authentication and authorization powered by JWT. Real-time updates and notifications are handled through WebSocket connections to enhance user interaction. The platform supports product browsing, user reviews, and a responsive design for seamless shopping experiences across devices.
+
 ---
 
 ### 🏘️ Student Residence Manager
