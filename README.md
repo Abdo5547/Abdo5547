@@ -151,6 +151,19 @@ Automated DevOps infrastructure deployment on Azure using Kubernetes for contain
 Utilized GitLab CI and Jenkins for CI/CD pipelines, Terraform for provisioning virtual machines, and Ansible for configuration management, ensuring fast and secure deployments.
 
 ---
+### 🛒 YourFavStore
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jwt&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-0078D7?style=flat)
+
+YourFavStore is a modern e-commerce application built with React frontend and Spring Boot backend, using MongoDB for data persistence.  
+It features secure user authentication and authorization powered by JWT.  
+Real-time updates and notifications are handled through WebSocket connections to enhance user interaction.  
+The platform supports product browsing, user reviews, and a responsive design for seamless shopping experiences across devices.
+---
 
 ### 🏘️ Student Residence Manager
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
