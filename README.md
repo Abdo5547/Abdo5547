@@ -181,8 +181,6 @@ JWT is used to secure user access and management. An interactive dashboard displ
 
 Development of ResearchUnity, a platform that enables researchers to publish, share, and discover academic work. Key features include research profile management, document publishing, and a customized chat interface to facilitate real-time communication and collaboration among researchers.
 
-### 🧪 DevOps Lab  
-An automated microservice deployment system using Docker, GitHub Actions, Terraform & AWS. Implements monitoring and alerting with Prometheus and Grafana.
 
 ---
 
